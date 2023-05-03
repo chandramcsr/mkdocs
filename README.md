@@ -1,1 +1,2 @@
 # mkdocs
+Welcome to MKDocs!
