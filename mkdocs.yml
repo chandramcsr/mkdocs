@@ -1,0 +1,10 @@
+site_name: Enterprise Decision Technology(EDT)
+repo_url: https://github.com/chandramcsr/mkdocs.git
+edit_uri: '#root/path/docs/'
+theme:
+    name: readthedocs
+    highlightjs: true
+    nav_style: dark
+nav:
+    - Home: index.md
+    - About: about.md
